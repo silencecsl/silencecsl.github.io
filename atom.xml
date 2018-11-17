@@ -3,11 +3,11 @@
   <title>silencecsl的博客</title>
   
   <subtitle>金凤玉露一相逢，便胜却人间无数</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/silencecsl.github.io/atom.xml" rel="self"/>
   
-  <link href="https://silencecsl.github.io/"/>
+  <link href="https://silencecsl.github.io/silencecsl.github.io/"/>
   <updated>2018-11-10T16:31:30.652Z</updated>
-  <id>https://silencecsl.github.io/</id>
+  <id>https://silencecsl.github.io/silencecsl.github.io/</id>
   
   <author>
     <name>silencecsl</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://silencecsl.github.io/2018/11/17/hello-world/"/>
-    <id>https://silencecsl.github.io/2018/11/17/hello-world/</id>
+    <link href="https://silencecsl.github.io/silencecsl.github.io/2018/11/17/hello-world/"/>
+    <id>https://silencecsl.github.io/silencecsl.github.io/2018/11/17/hello-world/</id>
     <published>2018-11-17T12:28:51.231Z</published>
     <updated>2018-11-10T16:31:30.652Z</updated>
     
